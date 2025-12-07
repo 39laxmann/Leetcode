@@ -11,7 +11,7 @@
 ## 📌 Description
 
 A collection of **Data Structures & Algorithms** solutions solved using **Python**, mostly from **LeetCode**.  
-Problems are organized **by topic** to focus on patterns rather than memorizing answers.
+
 
 This repo is meant to:
 

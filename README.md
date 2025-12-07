@@ -1,29 +1,22 @@
 # 🧠 LeetCode DSA in Python
 
-Welcome to my repository! This is where I solve **Data Structures & Algorithms (DSA)** problems from **LeetCode** using Python.  
-The goal of this repo is to practice problem-solving, improve coding skills, and build confidence for technical interviews.
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-green?style=flat-square)
+![LeetCode](https://img.shields.io/badge/LeetCode-Problems-orange?style=flat-square&logo=leetcode)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
 ---
 
-## 📌 About This Repo
+## 📌 Description
 
-- Language: **Python 3**
-- Platform: **LeetCode**
-- Topics include:
-  - Arrays
-  - Strings
-  - Hashing
-  - Linked Lists
-  - Two Pointers
-  - Sliding Window
-  - Binary Search
-  - Recursion & Backtracking
-  - Trees & BST
-  - Heaps & Priority Queue
-  - Graphs & BFS/DFS
-  - Dynamic Programming
+A collection of **Data Structures & Algorithms** solutions solved using **Python**, mostly from **LeetCode**.  
+Problems are organized **by topic** to focus on patterns rather than memorizing answers.
 
-> I try to write clean, readable, and well-structured code with comments whenever possible.
+This repo is meant to:
 
+✔️ Improve problem-solving skills  
+✔️ Prepare for coding interviews  
+✔️ Build consistency through daily practice
 
-
+---

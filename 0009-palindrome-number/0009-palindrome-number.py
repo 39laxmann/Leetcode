@@ -4,13 +4,14 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        temp = x
-        sum = 0
-        while x > 0:
-            rem = x % 10
-            sum = sum * 10 + rem
-            x //= 10
-        if sum == temp:
-            return True
-        else:
+        # Negative numbers are not palindromes
+        if x < 0:
             return False
+        
+        original = x
+        reversed_num = 0
+        while x > 0:
+            reversed_num = reversed_num * 10 + x % 10
+            x //= 10
+        
+        return reversed_num == original

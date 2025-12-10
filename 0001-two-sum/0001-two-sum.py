@@ -11,3 +11,4 @@ class Solution(object):
             if complement in seen:
                 return [seen[complement], i]
             seen[num] = i
+        # Note: Problem guarantees exactly one solution exists
